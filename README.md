@@ -8,7 +8,8 @@
 
 This project consists in using a variety of social networks' data, including both images and texts, to detect early signs of depression.
 
---
+
+---
 
 <!-- List of table of contents -->
 <details open="open">
