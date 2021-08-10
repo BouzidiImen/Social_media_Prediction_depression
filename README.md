@@ -1,4 +1,5 @@
-<h2> Depression Detection <img src="Screenshots/brain.png" width="50" >  Via User’s behaviour 
-on Social Networks using Deep learning <h2> 
-
-
+<div align="center">
+<br />
+ <img src="Screenshots/brain.png" alt="Logo-brain" width="150" height="150">
+  <h1  align="center"> Depression Detection</h1>
+</div>
