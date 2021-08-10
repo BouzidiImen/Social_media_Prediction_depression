@@ -5,9 +5,7 @@
   
 </div>
 
-
-This project consists in using a variety of social networks' data, including both images and texts, to detect early signs of depression.
-
+This project aims to detect early indicators of depression by analyzing data from a range of social media platforms, including images and texts. 
 
 ---
 
