@@ -6,4 +6,26 @@
 </div>
 
 
-This project consists in using a variety of social networks data, including both images and texts, to detect early signs of depression.
+This project consists in using a variety of social networks' data, including both images and texts, to detect early signs of depression.
+
+--
+
+<!-- List of table of contents -->
+<details open="open">
+  <summary name="tbc"> Table of Contents</summary>
+
+  <ol>
+    <li> <a href="#">Data collection </a> 
+       <ol>
+          <li> <a href="#">Visual Data</a> </li>
+          <li> <a href="#">Textual Data</a> </li>
+     </ol>
+    </li>
+    <li> <a href="#">Models</a> </li>
+
+
+  </ol>
+</details>
+ 
+
+---
