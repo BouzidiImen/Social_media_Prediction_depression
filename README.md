@@ -14,7 +14,7 @@ This project aims to detect early indicators of depression by analyzing data fro
   <summary name="tbc"> Table of Contents</summary>
 
   <ol>
-    <li> <a href="#">Data collection </a> 
+    <li> <a href="#data-collection--">Data collection </a> 
        <ol>
           <li> <a href="#">Visual Data</a> </li>
           <li> <a href="#">Textual Data</a> </li>
@@ -30,6 +30,7 @@ This project aims to detect early indicators of depression by analyzing data fro
 ---
 
 ## Data collection <a href="#top">&#8593; </a>
-Data was collected from <a href="https://www.pexels.com/"> Pexels, </a> <a href="https://unsplash.com/"> Unsplash and </a> <a href="https://twitter.com/?lang=ang"> Twitter </a>
+Data were collected from <a href="https://www.pexels.com/"> Pexels, </a> <a href="https://unsplash.com/"> Unsplash and </a> <a href="https://twitter.com/?lang=ang"> Twitter </a>.
+Pexels and Unsplash are two freely-usable images platforms. I used the publicly available tweets. 
 
 
