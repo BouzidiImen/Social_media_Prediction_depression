@@ -63,10 +63,10 @@ You can see exmples in the project sheet cheat on how to load data.
 ## Models <a href="#top">&#8593; </a>
 
 You can check the results of each model in the notebooks avilable in the repository <br>.
-For the best models I actually chose, you can find three notebooks. <br> 
-• For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> to test the best model. 
-• For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> to test the best model. 
-• For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the model.
+For the best models I actually chose, you can find three notebooks: <br> 
+• For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> to test the best model.  <br> 
+• For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> to test the best model.  <br> 
+• For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the model.  <br> 
 
 
 
