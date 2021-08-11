@@ -17,7 +17,7 @@ This project aims to detect early indicators of depression by analyzing data fro
     <li> <a href="#data-collection--">Data collection </a> 
        <ol>
           <li> <a href="#visual-data">Visual Data</a> </li>
-          <li> <a href="">Textual Data</a> </li>
+          <li> <a href="#textual-data">Textual Data</a> </li>
      </ol>
     </li>
     <li> <a href="#">Models</a> </li>
@@ -52,7 +52,7 @@ I scrapped:
 • 5234 images labeled as "Not Depressed"
 
 A sample of the dataset is as follow: 
-<div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="600" height="400" align="center"> </div>
+<div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="800" height="400" align="center"> </div>
   
 Images can be loaded as shown in the project sheet cheat. 
 ### Textual Data: 
