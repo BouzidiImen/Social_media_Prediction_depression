@@ -48,13 +48,13 @@ Codes are in Scripts/Images_functions/
 </ol>
 
 I scrapped: 
-• 6250 images labeled as "Depressed"
+• 6250 images labeled as "Depressed" <br>
 • 5234 images labeled as "Not Depressed"
 
 A sample of the dataset is as follow: 
-<div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="300" height="200" align="center"> </div>
+<div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="600" height="400" align="center"> </div>
   
-
+Images can be loaded as shown in the project sheet cheat. 
 
 
 
