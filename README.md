@@ -20,7 +20,7 @@ This project aims to detect early indicators of depression by analyzing data fro
           <li> <a href="#textual-data">Textual Data</a> </li>
      </ol>
     </li>
-    <li> <a href="#">Models</a> </li>
+    <li> <a href="#models">Models</a> </li>
 
 
   </ol>
@@ -60,7 +60,20 @@ Textual data was collected from Twitter users sharing their posts publicly using
 Overall, I got 5460 tweet.
 You can see exmples in the project sheet cheat on how to load data. 
 
+## Models <a href="#top">&#8593; </a>
+
+You can check the results of each model in the notebooks avilable in the repository <br>.
+For the best models I actually chose, you can find three notebooks. <br> 
+• For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> to test the best model. 
+• For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> to test the best model. 
+• For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the model.
 
 
+
+---
+
+### Finally, I hope you enjoyed my work and got inspired to help people get noticed :monocle_face:. If you want more details you can find my report <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Report.pdf">  here </a> . 
+
+Please contact me for more details, I would be really happy to share more infos :yum:. 
 
 
