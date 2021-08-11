@@ -58,7 +58,7 @@ Images can be loaded as shown in the project sheet cheat.
 ### Textual Data: 
 Textual data was collected from Twitter users sharing their posts publicly using Twitter Intelligence Tool. 
 Overall, I got 5460 tweet.
-You can see exmples in the project sheet cheat on how to load data. 
+You can check the examples in the project sheet cheat on how to load data. 
 
 ## Models <a href="#top">&#8593; </a>
 
