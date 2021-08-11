@@ -52,11 +52,7 @@ I scrapped:
 • 5234 images labeled as "Not Depressed"
 
 A sample of the dataset is as follow: 
-
-
-
-
- <img src="Screenshots/ImageSample.png" alt="Image sample width="300" height="200" align="center">
+<div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="300" height="200" align="center"> </div>
   
 
 
