@@ -28,3 +28,8 @@ This project aims to detect early indicators of depression by analyzing data fro
  
 
 ---
+
+## Data collection <a href="#top">&#8593; </a>
+Data was collected from <a href="https://www.pexels.com/"> Pexels, </a> <a href="https://unsplash.com/"> Unsplash and </a> <a href="https://twitter.com/?lang=ang"> Twitter </a>
+
+
