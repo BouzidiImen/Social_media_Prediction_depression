@@ -68,6 +68,7 @@ For the best models I actually chose, you can find three notebooks: <br>
 • For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> to test the best model.  <br> 
 • For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the model.  <br> 
 
+You can find the saved weights for images' model and texts' model <a href="https://drive.google.com/drive/folders/1R2nh2mDIhL1Z99O9XHPefwaaCNrKvFan?fbclid=IwAR1b-ZcUq7A9Xb8uV9Tv6m4ailydNWp6Pj3sr4SZ-Qm62U4tFPuVBoA_RvA">here. </a>
 
 
 ---
