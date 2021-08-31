@@ -20,7 +20,16 @@ This project aims to detect early indicators of depression by analyzing data fro
           <li> <a href="#textual-data">Textual Data</a> </li>
      </ol>
     </li>
-    <li> <a href="#models">Models</a> </li>
+    <li> <a href="#models--">Models </a> 
+       <ol>
+          <li> <a href="#models-for-images"> Models for images</a> </li>
+          <li> <a href="#models-for-texts"> Models for texts</a> </li>
+     </ol>
+    </li>
+    
+   
+   <li> <a href="#models">Models</a> </li>
+   <li> <a href="#models">Models</a> </li>
 
 
   </ol>
@@ -81,8 +90,8 @@ This is a sample of the dataset:
 You can check the results of each model in the notebooks avilable in the home repository. <br>
 For the best models I actually chose, you can find three notebooks: <br> 
  <ul>
-   <li>For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> to test the best model.  <</li>
-   <li>For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> to test the best model.  </li>
+   <li>For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> presents the test of **BiT-L(ResNet101x1)** model which is the best model for classifying images.  </li>
+   <li>For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> presents the test of ** GloVe+BiLSTM** which is the best model for classifying texts.  </li>
   <li>
    For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the model. 
   </li>
