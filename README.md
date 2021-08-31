@@ -85,9 +85,10 @@ This is a sample of the dataset:
    <li>LSTM</li>
    <li> GloVe+BiLSTM: This was the best model in term of Accuracy, Precision, Recall, and F1-score. </li>
 </ul>
-
+<br> 
+ <br> 
+ <br> 
  
-You can check the results of each model in the notebooks avilable in the home repository. <br>
 For the best models I actually chose, you can find three notebooks: <br> 
  <ul>
    <li>For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> presents the test of  BiT-L(ResNet101x1)  model which is the best model for classifying images.  </li>
