@@ -111,7 +111,9 @@ these machines:
 
 </ul>
          
- ## Software and technologies: <a href="#top">&#8593; </a> 
+ 
+ 
+## Software and technologies: <a href="#top">&#8593; </a> 
  
 <ul>
    <li> Python (version 3.8.3) </li>
@@ -122,6 +124,10 @@ these machines:
    <li>Pycharm (Community Edition)</li>
 
 </ul>
+ 
+ 
+ 
+ 
 ---
 
 ### Finally, I hope you enjoyed my work and got inspired to help people get noticed :monocle_face:. If you want more details you can find my report <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Report.pdf">  here </a> . 
