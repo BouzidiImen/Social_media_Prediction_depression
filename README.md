@@ -30,21 +30,19 @@ This project aims to detect early indicators of depression by analyzing data fro
 ---
 
 ## Data collection <a href="#top">&#8593; </a>
-Data were collected from <a href="https://www.pexels.com/"> Pexels, </a> <a href="https://unsplash.com/"> Unsplash and </a> <a href="https://twitter.com/?lang=ang"> Twitter </a>.
+Data were collected from <a href="https://www.pexels.com/"> Pexels</a>, <a href="https://unsplash.com/"> Unsplash  </a> and <a href="https://twitter.com/?lang=ang"> Twitter </a>. <br>
 Pexels and Unsplash are two freely-usable images platforms. <br>Tweets used are publicly available. 
 ### Visual Data: 
 The overall process of scraping images from unsplash and pexels is presented as follows:
 <div> <img src="Screenshots/crawl_images.PNG" alt="Image sample" width="800" height="200" align="center"> </div>
 
 Images were crawled from Pexels using Selenium and from Unsplash using UnsplashAPI.  
-
-Images scrapped are: 
 <ul>
            <li> 6250 images labeled as "Depressed" </li>
            <li> 5234 images labeled as "Not Depressed" </li>
 </ul>
 
-This is a sample of the dataset is: 
+This is a sample of the dataset: 
 <div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="800" height="300" align="center"> </div>
   
 Images can be loaded as shown in <a href="Project Cheat Sheet.ipynb"> Project Cheat Sheet</a> and codes are available <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/tree/main/Scripts/Images_functions"> here <a>.
@@ -57,8 +55,9 @@ The process was: <br>
  <div> <img src="Screenshots/crawl_texts.PNG" alt="Image sample" width="300" height="100" align="center"> </div>
  
 You can check the result of texts loader in <a href="Project Cheat Sheet.ipynb"> Project Cheat Sheet</a> and codes are available <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/tree/main/Scripts/Twitter_Crawler"> here <a>.
-
-
+This is a sample of the dataset: 
+<div> <img src="Screenshots/texts_exmpl.PNG" alt="Image sample" width="800" height="300" align="center"> </div>
+  
 ## Models <a href="#top">&#8593; </a>
 
 You can check the results of each model in the notebooks avilable in the home repository. <br>
