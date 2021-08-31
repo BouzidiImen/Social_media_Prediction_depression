@@ -54,7 +54,7 @@ Hashtags that were used are trending hashtags using Keywords inspired from DSM-5
 Textual data were collected from Twitter users sharing their posts publicly using twint. <br> 
 Overall, 5460 tweets were collected.
 The process was: <br>
- <div> <img src="Screenshots/crawl_texts.PNG" alt="Image sample" width="500" height="100" align="center"> </div>
+ <div> <img src="Screenshots/crawl_texts.PNG" alt="Image sample" width="300" height="100" align="center"> </div>
  
 You can check the result of texts loader in <a href="Project Cheat Sheet.ipynb"> Project Cheat Sheet</a> and codes are available <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/tree/main/Scripts/Twitter_Crawler"> here <a>.
 
