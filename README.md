@@ -66,7 +66,7 @@ This is a sample of the dataset:
    <li> ResNet50  </li>
    <li> BiT-L(ResNet50x1) </li>
    <li>BiT-L(ResNet50x3) </li>
-   <li> BiT-L(ResNet101x1): This was the best model with term of accuracy, Precision, Recall, and F1-score with hyperparameters as follow SGD (Stochastic gradient descent) as optimizer, 50 epochs, leraning rate is variable and size of images is 128*128p </li>
+   <li> BiT-L(ResNet101x1): This was the best model in term of Accuracy, Precision, Recall, and F1-score with hyperparameters as follow SGD (Stochastic gradient descent) as optimizer, 50 epochs, leraning rate is variable and size of images is 128*128p </li>
 
 </ul>
  
