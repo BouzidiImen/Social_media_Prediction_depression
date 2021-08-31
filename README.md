@@ -34,7 +34,7 @@ Data were collected from <a href="https://www.pexels.com/"> Pexels, </a> <a href
 Pexels and Unsplash are two freely-usable images platforms. <br>Tweets used are publicly available. 
 ### Visual Data: 
 The overall process of scraping images from unsplash and pexels is presented as follows:
-<div> <img src="Screenshots/crawl_images.PNG" alt="Image sample" width="800" height="300" align="center"> </div>
+<div> <img src="Screenshots/crawl_images.PNG" alt="Image sample" width="900" height="200" align="center"> </div>
 
 Images were crawled from Pexels using Selenium and from Unsplash using UnsplashAPI.  
 
@@ -47,7 +47,7 @@ Images scrapped are:
 This is a sample of the dataset is: 
 <div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="800" height="400" align="center"> </div>
   
-Images can be loaded as shown in the project sheet cheat. 
+Images can be loaded as shown in <a href="Project Cheat Sheet.ipynb"> Project Cheat Sheet</a>. 
 ### Textual Data: 
 Textual data was collected from Twitter users sharing their posts publicly using Twitter Intelligence Tool. 
 Overall, I got 5460 tweet.
