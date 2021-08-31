@@ -31,27 +31,20 @@ This project aims to detect early indicators of depression by analyzing data fro
 
 ## Data collection <a href="#top">&#8593; </a>
 Data were collected from <a href="https://www.pexels.com/"> Pexels, </a> <a href="https://unsplash.com/"> Unsplash and </a> <a href="https://twitter.com/?lang=ang"> Twitter </a>.
-Pexels and Unsplash are two freely-usable images platforms. I used the publicly available tweets. 
+Pexels and Unsplash are two freely-usable images platforms. <br>Tweets used are publicly available. 
 ### Visual Data: 
-Codes are in Scripts/Images_functions/
+The overall process of scraping images from unsplash and pexels is presented as follows:
+<div> <img src="Screenshots/crawl_images.PNG" alt="Image sample" width="800" height="300" align="center"> </div>
 
-<ol>
-          <li> Unsplash:
-                    I created a function to crawl the links of all images of a specific keyword
-                    using the API of unsplash. To crawl links, I can simply call this function with
-                    the proper parameters to save links in a csv file. </li>
-          <li> Pexels:
-                   I did not use the Pexels’ API to crawl links of images for a specific keyword,
-                  I created a function using Selenium Python 1 to save links in a csv file easy
-                   to implement.
-        </li>
-</ol>
+Images were crawled from Pexels using Selenium and from Unsplash using UnsplashAPI.  
 
-I scrapped: 
-• 6250 images labeled as "Depressed" <br>
-• 5234 images labeled as "Not Depressed"
+Images scrapped are: 
+<ul>
+           <li> 6250 images labeled as "Depressed" </li>
+           <li> 5234 images labeled as "Not Depressed" </li>
+</ul>
 
-A sample of the dataset is as follow: 
+This is a sample of the dataset is: 
 <div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="800" height="400" align="center"> </div>
   
 Images can be loaded as shown in the project sheet cheat. 
