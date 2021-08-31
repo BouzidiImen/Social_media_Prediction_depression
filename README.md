@@ -59,7 +59,7 @@ This is a sample of the dataset:
 <div> <img src="Screenshots/texts_exmpl.PNG" alt="Image sample" width="800" height="300" align="center"> </div>
   
 ## Models <a href="#top">&#8593; </a>
-#### Images' models:
+#### Models for Images:
  Trained five different types of models: 
  <ul>
    <li> Deep CNN </li>
@@ -70,17 +70,25 @@ This is a sample of the dataset:
 
 </ul>
  
-#### Texts' models:
- 
+#### Models for Texts:
+ Trained two different types of models: 
+ <ul>
+   <li>LSTM</li>
+   <li> GloVe+BiLSTM: This was the best model in term of Accuracy, Precision, Recall, and F1-score. </li>
+</ul>
 
  
 You can check the results of each model in the notebooks avilable in the home repository. <br>
 For the best models I actually chose, you can find three notebooks: <br> 
-• For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> to test the best model.  <br> 
-• For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> to test the best model.  <br> 
-• For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the model.  <br> 
+ <ul>
+   <li>For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> to test the best model.  <</li>
+   <li>For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> to test the best model.  </li>
+  <li>
+   For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the model. 
+  </li>
+</ul>
 
-You can find the saved weights for images' model and texts' model <a href="https://drive.google.com/drive/folders/1R2nh2mDIhL1Z99O9XHPefwaaCNrKvFan?fbclid=IwAR1b-ZcUq7A9Xb8uV9Tv6m4ailydNWp6Pj3sr4SZ-Qm62U4tFPuVBoA_RvA">here. </a>
+You can find the saved weights for images best model and texts best model <a href="https://drive.google.com/drive/folders/1R2nh2mDIhL1Z99O9XHPefwaaCNrKvFan?fbclid=IwAR1b-ZcUq7A9Xb8uV9Tv6m4ailydNWp6Pj3sr4SZ-Qm62U4tFPuVBoA_RvA">here</a>. 
 
  
  
