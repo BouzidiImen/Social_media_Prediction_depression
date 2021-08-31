@@ -86,11 +86,33 @@ these machines:
  
  
  <li>Virtual Machine on GCP: mastermind
-        <ul> I used two configurations: 
+        <br> I used two configurations: 
+       <ul>
+        <li> For tasks that are not heavy in both computation and time:
+           <ul> <li>Operating System : Ubuntu 19.10</li>
+            <li>Machine Type: n1-highmem-8</li>
+          <li>CPU: 8 vCPUs</li>
+          <li> RAM: 16 Go</li>
+          <li> Disk: 100 GB SSD</li>
+        </ul>
+         </li>
+            <li>
+          For training models: <ul>
+            <li>Operating System : Ubuntu 19.10</li>
+            <li> Machine Type: n1-highmem-8</li>
+          <li>CPU: 8 vCPUs</li>
+          <li>RAM: 52 Go</li>
+          <li>Disk: 100 GB SSD</li>
+        </ul>
+             </li>
+         
        </ul>
  </li>
 
-
+</ul>
+         
+         
+  
 ---
 
 ### Finally, I hope you enjoyed my work and got inspired to help people get noticed :monocle_face:. If you want more details you can find my report <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Report.pdf">  here </a> . 
