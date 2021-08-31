@@ -68,6 +68,48 @@ For the best models I actually chose, you can find three notebooks: <br>
 
 You can find the saved weights for images' model and texts' model <a href="https://drive.google.com/drive/folders/1R2nh2mDIhL1Z99O9XHPefwaaCNrKvFan?fbclid=IwAR1b-ZcUq7A9Xb8uV9Tv6m4ailydNWp6Pj3sr4SZ-Qm62U4tFPuVBoA_RvA">here. </a>
 
+## Hardware used <a href="#top">&#8593; </a>
+ In the process of the implementation of our solution we used two main machines,
+a local machine for refactoring codes, testing models and research, and a virtual
+machine (VM) on Google Cloud Platform (GCP) to run models and codes that
+are heavy in term of computation and time. Following are the specifications of
+these machines:
+<ul>
+    <li> Local Machine: Lenovo E330:
+        <ul>
+            <li>Operating System : Kali Linux 2020.2</li>
+            <li>CPU: Intel Core i5-3230M 2,6GHz</li>
+         <li>RAM: 8 Go DDR3</li>
+         <li>Disk: 320 GB HDD</li>
+        </ul>
+    </li>
+ <li>Virtual Machine on GCP: mastermind
+        <ul> I used two configurations: 
+         
+            <li>
+         <ul>For tasks that are not heavy in both computation and time:
+            <li>Operating System : Ubuntu 19.10</li>
+            <li>Machine Type: n1-highmem-8</li>
+          <li>CPU: 8 vCPUs</li>
+          <li> RAM: 16 Go</li>
+          <li> Disk: 100 GB SSD</li>
+        </ul>
+         </li>
+            <li>
+         <ul> I used two configurations: 
+         For training models:
+            <li>Operating System : Ubuntu 19.10</li>
+            <li> Machine Type: n1-highmem-8</li>
+          <li>CPU: 8 vCPUs</li>
+          <li>RAM: 52 Go</li>
+          <li>Disk: 100 GB SSD</li>
+        </ul>
+         </li>
+        </ul>
+    </li>
+
+</ul>
+
 
 ---
 
@@ -76,3 +118,8 @@ You can find the saved weights for images' model and texts' model <a href="https
 Please contact me for more details, I would be really happy to share more infos :yum:. 
 
 
+
+ 
+
+ 
+ 
