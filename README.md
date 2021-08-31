@@ -106,7 +106,7 @@ You can find the saved weights for images best model and texts best model <a hre
  
   
  
-## Hardware used <a href="#top">&#8593; </a>
+## Hardware <a href="#top">&#8593; </a>
  In the process of the implementation of our solution we used two main machines,
 a local machine for refactoring codes, testing models and research, and a virtual
 machine (VM) on Google Cloud Platform (GCP) to run models and codes that
