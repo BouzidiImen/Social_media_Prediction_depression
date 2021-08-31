@@ -83,32 +83,12 @@ these machines:
          <li>Disk: 320 GB HDD</li>
         </ul>
     </li>
+ 
+ 
  <li>Virtual Machine on GCP: mastermind
         <ul> I used two configurations: 
-         
-            <li>
-         <ul>For tasks that are not heavy in both computation and time:
-            <li>Operating System : Ubuntu 19.10</li>
-            <li>Machine Type: n1-highmem-8</li>
-          <li>CPU: 8 vCPUs</li>
-          <li> RAM: 16 Go</li>
-          <li> Disk: 100 GB SSD</li>
-        </ul>
-         </li>
-            <li>
-         <ul> I used two configurations: 
-         For training models:
-            <li>Operating System : Ubuntu 19.10</li>
-            <li> Machine Type: n1-highmem-8</li>
-          <li>CPU: 8 vCPUs</li>
-          <li>RAM: 52 Go</li>
-          <li>Disk: 100 GB SSD</li>
-        </ul>
-         </li>
-        </ul>
-    </li>
-
-</ul>
+       </ul>
+ </li>
 
 
 ---
