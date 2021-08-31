@@ -106,7 +106,7 @@ these machines:
         </ul>
              </li>
          
-       </ul>
+
  </li>
 
 </ul>
