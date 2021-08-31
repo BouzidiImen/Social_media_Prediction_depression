@@ -47,11 +47,17 @@ Images scrapped are:
 This is a sample of the dataset is: 
 <div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="800" height="400" align="center"> </div>
   
-Images can be loaded as shown in <a href="Project Cheat Sheet.ipynb"> Project Cheat Sheet</a>. 
+Images can be loaded as shown in <a href="Project Cheat Sheet.ipynb"> Project Cheat Sheet</a> and codes are available <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/tree/main/Scripts/Images_functions"> here <a>.
 ### Textual Data: 
-Textual data was collected from Twitter users sharing their posts publicly using Twitter Intelligence Tool. 
-Overall, I got 5460 tweet.
-You can check the examples in the project sheet cheat on how to load data. 
+
+Hashtags that were used are trending hashtags using Keywords inspired from DSM-5(Diagnostic and Statistical Manual of Mental Disorders). 
+Textual data were collected from Twitter users sharing their posts publicly using twint. 
+Overall, 5460 tweets were collected.
+The process was: 
+ <div> <img src="Screenshots/crawl_texts.PNG" alt="Image sample" width="800" height="300" align="center"> </div>
+ 
+You can check the result of texts loader in <a href="Project Cheat Sheet.ipynb"> Project Cheat Sheet</a> and codes are available <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/tree/main/Scripts/Twitter_Crawler"> here <a>.
+
 
 ## Models <a href="#top">&#8593; </a>
 
