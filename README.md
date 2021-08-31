@@ -90,10 +90,10 @@ This is a sample of the dataset:
 You can check the results of each model in the notebooks avilable in the home repository. <br>
 For the best models I actually chose, you can find three notebooks: <br> 
  <ul>
-   <li>For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> presents the test of **BiT-L(ResNet101x1)** model which is the best model for classifying images.  </li>
-   <li>For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> presents the test of ** GloVe+BiLSTM** which is the best model for classifying texts.  </li>
+   <li>For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> presents the test of  BiT-L(ResNet101x1)  model which is the best model for classifying images.  </li>
+   <li>For Texts:  <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Testing_models.ipynb">this notebook </a> presents the test of  GloVe+BiLSTM  which is the best model for classifying texts.  </li>
   <li>
-   For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the model. 
+   For integrating models: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Integrating_Models.ipynb">this notebook </a> is to test the integration of BiT-L(ResNet101x1) and GloVe+BiLSTM to get a multimodal model. 
   </li>
 </ul>
 
