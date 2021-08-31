@@ -68,6 +68,22 @@ For the best models I actually chose, you can find three notebooks: <br>
 
 You can find the saved weights for images' model and texts' model <a href="https://drive.google.com/drive/folders/1R2nh2mDIhL1Z99O9XHPefwaaCNrKvFan?fbclid=IwAR1b-ZcUq7A9Xb8uV9Tv6m4ailydNWp6Pj3sr4SZ-Qm62U4tFPuVBoA_RvA">here. </a>
 
+ 
+ 
+## Software and technologies: <a href="#top">&#8593; </a> 
+ 
+<ul>
+   <li> Python (version 3.8.3) </li>
+   <li> Anaconda (Distribution 2020.02) </li>
+   <li> TensorFlow  </li>
+   <li> Keras: </li>
+   <li> Jupyter Notebook</li>
+   <li>Pycharm (Community Edition)</li>
+
+</ul>
+ 
+  
+ 
 ## Hardware used <a href="#top">&#8593; </a>
  In the process of the implementation of our solution we used two main machines,
 a local machine for refactoring codes, testing models and research, and a virtual
@@ -113,19 +129,7 @@ these machines:
          
  
  
-## Software and technologies: <a href="#top">&#8593; </a> 
- 
-<ul>
-   <li> Python (version 3.8.3) </li>
-   <li> Anaconda (Distribution 2020.02) </li>
-   <li> TensorFlow  </li>
-   <li> Keras: </li>
-   <li> Jupyter Notebook</li>
-   <li>Pycharm (Community Edition)</li>
 
-</ul>
- 
- 
  
  
 ---
