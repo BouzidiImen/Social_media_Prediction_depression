@@ -59,7 +59,21 @@ This is a sample of the dataset:
 <div> <img src="Screenshots/texts_exmpl.PNG" alt="Image sample" width="800" height="300" align="center"> </div>
   
 ## Models <a href="#top">&#8593; </a>
+#### Images' models:
+ Trained five different types of models: 
+ <ul>
+   <li> Deep CNN </li>
+   <li> ResNet50  </li>
+   <li> BiT-L(ResNet50x1) </li>
+   <li>BiT-L(ResNet50x3) </li>
+   <li> BiT-L(ResNet101x1): This was the best model with term of accuracy, Precision, Recall, and F1-score with hyperparameters as follow SGD (Stochastic gradient descent) as optimizer, 50 epochs, leraning rate is variable and size of images is 128*128p </li>
 
+</ul>
+ 
+#### Texts' models:
+ 
+
+ 
 You can check the results of each model in the notebooks avilable in the home repository. <br>
 For the best models I actually chose, you can find three notebooks: <br> 
 • For images: <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/blob/main/Test_Best_Model.ipynb">this notebook </a> to test the best model.  <br> 
