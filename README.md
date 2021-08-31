@@ -45,7 +45,7 @@ Images scrapped are:
 </ul>
 
 This is a sample of the dataset is: 
-<div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="800" height="400" align="center"> </div>
+<div> <img src="Screenshots/ImageSample.png" alt="Image sample" width="600" height="150" align="center"> </div>
   
 Images can be loaded as shown in <a href="Project Cheat Sheet.ipynb"> Project Cheat Sheet</a> and codes are available <a href="https://github.com/BouzidiImen/Social_media_Prediction_depression/tree/main/Scripts/Images_functions"> here <a>.
 ### Textual Data: 
