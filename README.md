@@ -28,8 +28,8 @@ This project aims to detect early indicators of depression by analyzing data fro
     </li>
     
    
-   <li> <a href="#models">Models</a> </li>
-   <li> <a href="#models">Models</a> </li>
+   <li> <a href="#software-and-technologies--">Softwares and technologies</a> </li>
+   <li> <a href="#hardware--">Hardware</a> </li>
 
 
   </ol>
@@ -108,7 +108,7 @@ You can find the saved weights for images best model and texts best model <a hre
    <li> Python (version 3.8.3) </li>
    <li> Anaconda (Distribution 2020.02) </li>
    <li> TensorFlow  </li>
-   <li> Keras: </li>
+   <li> Keras </li>
    <li> Jupyter Notebook</li>
    <li>Pycharm (Community Edition)</li>
 
